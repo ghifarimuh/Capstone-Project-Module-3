@@ -37,5 +37,3 @@ Contributions to this project are welcome. You can suggest improvements to the a
 
 ## Contact
 For any queries or discussions regarding the project, please open an issue in the repository.
-
-## This is just a starting point, and you can customize each section further to fit the specifics of your project. Would you like to make any adjustments or add any additional sections?​
